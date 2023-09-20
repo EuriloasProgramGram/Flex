@@ -1,0 +1,14 @@
+.child {
+    border:2px solid #6f387c;
+    background-color: mediumorchid;
+    width: 50px;
+    flex-grow: 1;
+}
+.parent{
+    border:2px solid #8f4778;
+    display: flex;
+    height: 200px;;
+}
+.two{
+ flex-grow: 2;
+}
