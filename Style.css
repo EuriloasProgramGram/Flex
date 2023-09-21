@@ -10,5 +10,5 @@
     height: 200px;;
 }
 .two{
- flex-grow: 2;
+align-self:stretch;
 }
